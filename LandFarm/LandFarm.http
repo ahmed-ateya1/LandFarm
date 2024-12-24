@@ -1,0 +1,6 @@
+@LandFarm_HostAddress = http://localhost:5031
+
+GET {{LandFarm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
